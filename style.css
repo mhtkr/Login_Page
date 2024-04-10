@@ -11,6 +11,7 @@ body
     padding: 2px;
     border-radius: 20px;
     text-align: center;
+    font-family: "Bebas Neue", sans-serif;
     
 }
 
@@ -23,6 +24,7 @@ body
     border-radius: 20px;
     border: 1px solid #00FFD1;
     color: white;
+    font-family: "Roboto Condensed", sans-serif;
 }
 
 form
