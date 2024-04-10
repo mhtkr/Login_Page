@@ -1,0 +1,39 @@
+body
+{
+    background-color: #FFD1E3;
+}
+
+.heading
+{
+    background-color: #5BBCFF;
+    color: white;
+    margin: auto;
+    width: 90%;
+    padding: 2px;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+
+.login
+{
+    background-color: #FFFAB7;
+    margin: auto;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+form
+{
+    display: inline-block;
+}
+
+.main
+{
+    background-color:#8576FF;
+    border-radius: 20px;
+    padding: 30px;
+    margin: auto;
+    width: 70%;
+}
