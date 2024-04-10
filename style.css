@@ -1,12 +1,11 @@
 body
 {
-    background-color: #FFD1E3;
+    background-color: black;
 }
 
 .heading
 {
-    background-color: #5BBCFF;
-    color: white;
+    background-color: #00FFD1;
     margin: auto;
     width: 90%;
     padding: 2px;
@@ -17,11 +16,13 @@ body
 
 .login
 {
-    background-color: #FFFAB7;
+    background-color: #31363F;
     margin: auto;
     width: fit-content;
     padding: 20px;
     border-radius: 20px;
+    border: 1px solid #00FFD1;
+    color: white;
 }
 
 form
@@ -31,9 +32,27 @@ form
 
 .main
 {
-    background-color:#8576FF;
+    background-color:#121212;
     border-radius: 20px;
+    border: 1px solid white;
     padding: 30px;
     margin: auto;
     width: 70%;
+    text-align: center;
+}
+
+form input
+{
+    border-radius: 10px;
+    height: 30px;
+    
+}
+
+#submit
+{
+    background-color: #121212;
+    color: white;
+    border: 1px solid #00FFD1;
+    width: 30%;
+
 }
