@@ -7,9 +7,9 @@ body
 {
     background-color: #00FFD1;
     margin: auto;
-    width: 90%;
-    padding: 2px;
-    border-radius: 20px;
+    width: auto;
+    padding: 1px 30px;
+    border-radius: 15px;
     text-align: center;
     font-family: "Abel", sans-serif;
     
@@ -21,7 +21,7 @@ body
     margin: auto;
     width: fit-content;
     padding: 20px;
-    border-radius: 20px;
+    border-radius: 15px;
     border: 1px solid #00FFD1;
     color: white;
     font-family: "Abel", sans-serif;
@@ -35,11 +35,11 @@ form
 .main
 {
     background-color:#121212;
-    border-radius: 20px;
+    border-radius: 15px;
     border: 1px solid white;
     padding: 30px;
     margin: auto;
-    width: 70%;
+    width: max-content;
     text-align: center;
     margin-top: 10%;
 }
