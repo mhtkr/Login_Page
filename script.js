@@ -5,6 +5,6 @@ function form_valid()
 
     if (username.trim() == "" || password.trim() == "")
     {
-        alert("Fields are Mandatory to fill!")
+        alert("All fields are mandatory to fill!");
     }
 }
